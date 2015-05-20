@@ -11,4 +11,13 @@
 	height:150px;
 	width:200px;
 	font-size: 2em;
+	margin-bottom: 15px;
+}
+
+.test3{
+	background-color: lightgreen;
+	height:150px;
+	width:200px;
+	font-size: 2em;
+	margin-bottom: 15px;
 }
